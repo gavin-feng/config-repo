@@ -1,4 +1,4 @@
-example.property: "IN THE DEFAULT mod it again!! GOGOGO"
+example.property: "IN THE DEFAULT mod GOGOGO"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
